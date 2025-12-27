@@ -34,3 +34,4 @@ Thanks to all the amazing people who have contributed to **AlumX's Frontend Repo
 - Sudhanshu (@sahsudhanshu)
 - Rushal Verma (@Rushalverma)
 - Naman Pal (@Naman2251)
+- Ashutosh kesarwani (@Lucifer-0612)
